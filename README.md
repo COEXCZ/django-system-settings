@@ -10,7 +10,7 @@ Settings attributes are stored into JSONField in database so there is no need to
 
 ## Installation
 
-pip install git+ssh://git@github.com/COEXCZ/django_system_settings.git
+`pip install git+ssh://git@github.com/COEXCZ/django_system_settings.git`
 
 Add to settings.py
 
