@@ -21,7 +21,7 @@ Add to settings.py
 ```python
 INSTALLED_APPS = [
     ...
-    'django_system_settings',
+    'system_settings',
     ...
 ]
 ```
